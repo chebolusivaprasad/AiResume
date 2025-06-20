@@ -1,0 +1,10 @@
+
+Flask-SQLAlchemy
+Werkzeug
+spacy
+scikit-learn
+flask
+gunicorn
+openai
+pdfplumber
+joblib
